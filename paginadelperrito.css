@@ -1,0 +1,131 @@
+/*Aqui iniciamos el css del perrito*/
+
+body{
+    background-color: darkcyan;
+    border-style: solid black;
+}
+
+
+.titulo{
+    text-align: center;
+    width: 500px;
+    display: block;
+    margin: auto;
+    color: aliceblue;
+    background-color: blueviolet;
+}
+
+
+
+.fotochihuahua{
+    border-style: dashed;
+    display: block;
+border-style: dashed solid blue;
+    border-color: salmon;
+    width: 500px;
+    align-items: center;
+    padding: auto;
+    margin: auto
+    ;
+    border: 350px;
+    position: relative;
+}
+.parrafoperrito{
+    display: block;
+    margin: auto;
+    border: 20px;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+    background-color: blueviolet;
+}
+.fotolabrador{
+    border-style: dashed;
+    display: block;
+border-style: dashed solid blue;
+    border-color: salmon;
+    width: 500px;
+    align-items: center;
+    padding: auto;
+    margin: auto
+    ;
+    border: 350px;
+    position: relative;
+    width: 350px;
+
+}
+.parrafolabrador{
+    display: block;
+    margin: auto;
+    border: 20px;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+    background-color: blueviolet;
+}
+.fotopolicia{
+    border-style: dashed;
+    display: block;
+border-style: dashed solid blue;
+    border-color: salmon;
+    width: 500px;
+    align-items: center;
+    padding: auto;
+    margin: auto
+    ;
+    border: 350px;
+    position: relative;
+    width: 350px;
+
+}
+.parrafopolicia{
+    display: block;
+    margin: auto;
+    border: 20px;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+    background-color: blueviolet;
+}
+.fotoratonero{
+    border-style: dashed;
+    display: block;
+border-style: dashed solid blue;
+    border-color: salmon;
+    width: 500px;
+    align-items: center;
+    padding: auto;
+    margin: auto
+    ;
+    border: 350px;
+    position: relative;
+    width: 350px;
+}
+.parraforatonero{
+    display: block;
+    margin: auto;
+    border: 20px;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+    background-color: blueviolet;
+}
+.botones{
+    padding: 10px;
+    display: block;
+    margin: auto;
+    border-radius: 2px;
+    padding: 5px;
+    
+}
+#facebook{
+    background-color: blue;
+
+}
+#twitter{
+    background-color: grey;
+}
+#instagram{
+    background-color: azure;
+}
+/*Seguirle modificando este repositorio*/
